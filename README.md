@@ -17,3 +17,5 @@ node.js, express, mongoose
 This is my first time to use MongoDB and Mongoose. MySQL experience helps me grab the concept of MongoDB fast. But Mongoose has different syntax to use which I need more time to adapt to different situations.
 
 ## Walkthrough Video
+https://user-images.githubusercontent.com/103200377/186557418-c15f5dac-41df-4ac7-8427-e87c949041ed.mp4
+
